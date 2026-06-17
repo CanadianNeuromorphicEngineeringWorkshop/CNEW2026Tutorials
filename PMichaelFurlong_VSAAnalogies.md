@@ -10,7 +10,7 @@ This tutorial is drawn from the NeuroMatch Academy school on NeuroAI:
 (https://neuroai.neuromatch.io/w2d2-intro/)
 
 We are looking at Tutorial 4, which shows how to implement simple analogies using a Vector Symbolic Algebra.
-The tutorial is contained in the notebook (notebook/W2D2_Tutorial4.ipynb).
+The tutorial is contained in the notebook [notebook/W2D2_Tutorial4.ipynb](https://github.com/CanadianNeuromorphicEngineeringWorkshop/CNEW2026Tutorials/blob/main/W2D2_Tutorial4.ipynb).
 
 
 Exercise 1: King is to Queen as Prince is to ???
