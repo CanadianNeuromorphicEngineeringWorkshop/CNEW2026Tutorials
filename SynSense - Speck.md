@@ -4,6 +4,8 @@ Hands-on notebooks for learning Spiking Neural Networks with [sinabs](https://si
 
 ## Notebooks
 
+[Synsense Tutorials](https://github.com/CanadianNeuromorphicEngineeringWorkshop/CNEW2026Tutorials/tree/main/synsense_tutorials)
+
 | Notebook | Description |
 |---|---|
 | `snn_mnist_tutorial.ipynb` | Core SNN tutorial — IAF neuron, BPTT, surrogate gradients, training on N-MNIST |
